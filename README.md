@@ -41,7 +41,7 @@ The API will return a JSON object with the prediction:
     "SkinThickness": 0,
     "Insulin": 0,
     "BMI": 38,
-    "DiabetesPedigreeFunction": 0.537,
+    "DiabetesPedigreeFuncion": 0.537,
     "Age": 30
 }
 ```
